@@ -1,1 +1,1 @@
-Jupiter http://127.0.0.1:8888/?/ file on jupiter server.
+Jupiter file on jupiter server.
